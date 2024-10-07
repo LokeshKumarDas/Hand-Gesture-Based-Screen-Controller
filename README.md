@@ -12,10 +12,10 @@ Install all the necessary Libraries and run the 'Code.ipynb' file.
 Capture the image of the left hand and recognize the hand sign and the 'pyautogui' module is used to perform operations.<br><be>
 <hr>
 <h3>Given below is the list of Hand Signs and Operations implemented in code:</h3> <br>
-<h2>Index Finger up               - to move cursor</h2>
-<h2>Index Finger, Thumbs up       - for right click</h2>
-<h2>Index, Middle Finger up       - for left click</h2>
-<h2>Index, Middle, Ring Finger up - for double click</h2>
-<h2>All Fingers up                - to start dragging</h2>
-<h2>All Fingers down              - to stop dragging</h2>
+<h4>Index Finger up               - to move cursor</h4>
+<h4>Index Finger, Thumbs up       - for right click</h4>
+<h4>Index, Middle Finger up       - for left click</h4>
+<h4>Index, Middle, Ring Finger up - for double click</h4>
+<h4>All Fingers up                - to start dragging</h4>
+<h4>All Fingers down              - to stop dragging</h4>
 <hr>
